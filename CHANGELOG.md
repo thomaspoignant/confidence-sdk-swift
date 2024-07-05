@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.3.0](https://github.com/spotify/confidence-sdk-swift/compare/0.2.4...0.3.0) (2024-07-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* decrease API surface ([#156](https://github.com/spotify/confidence-sdk-swift/issues/156))
+
+### 📚 Documentation
+
+* update readme ([#153](https://github.com/spotify/confidence-sdk-swift/issues/153)) ([9e49bb0](https://github.com/spotify/confidence-sdk-swift/commit/9e49bb01c112a887c6892101c379a3764d48799e))
+
+
+### 🔄 Refactoring
+
+* decrease API surface ([917743b](https://github.com/spotify/confidence-sdk-swift/commit/917743b98df4b1bbae7caa7941540cf07e7b9316))
+* decrease API surface ([#156](https://github.com/spotify/confidence-sdk-swift/issues/156)) ([917743b](https://github.com/spotify/confidence-sdk-swift/commit/917743b98df4b1bbae7caa7941540cf07e7b9316))
+
 ## [0.2.4](https://github.com/spotify/confidence-sdk-swift/compare/0.2.3...0.2.4) (2024-07-02)
 
 

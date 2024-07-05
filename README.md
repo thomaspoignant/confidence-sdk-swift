@@ -24,7 +24,7 @@ If your app is using some of the features of Swift 6, we recommend setting the *
 <!---x-release-please-start-version-->
 In the dependencies section of Package.swift add:
 ```swift
-.package(url: "git@github.com:spotify/confidence-sdk-swift.git", from: "0.2.4")
+.package(url: "git@github.com:spotify/confidence-sdk-swift.git", from: "0.3.0")
 ```
 <!---x-release-please-end-->
 
